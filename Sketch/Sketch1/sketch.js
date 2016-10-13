@@ -78,16 +78,6 @@ function draw() {
 	vertex(275, 222);
 	endShape(CLOSE);	
 
-
-
-
-
-textSize(32);
-
-text("x" + mouseX, 10, 30);
-text("y" + mouseY, 10, 60);
-
-
 }
 
 
