@@ -40,12 +40,4 @@ function draw() {
 	fill(0, 0, 0);
 	ellipse(276, 100, 30, 30);
 	endShape(CLOSE);
-
-
-
-
-	textSize(32);
-
-text("x" + mouseX, 10, 30);
-text("y" + mouseY, 10, 60);
 }
